@@ -1,2 +1,2 @@
-# ArtMaryGames.github.io
+# ArtMary.apps.github.io
 Политика безопасности приложений.
